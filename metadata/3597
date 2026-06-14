@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #3597",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/3597.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blonde Short Spiky"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "White Layered Yukata"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Focused"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Meh"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Monkey King Staff"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Kabuki Facepaint"
+        }
+    ]
+}

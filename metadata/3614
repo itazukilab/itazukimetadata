@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #3614",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/3614.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver Pony"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Turquoise Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Worried"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Surprised"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Dark Purple"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Hand Seal"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Cowboy Hat"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Frog Headphones"
+        }
+    ]
+}

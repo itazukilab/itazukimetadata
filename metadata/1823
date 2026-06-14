@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #1823",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/1823.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blue Bob"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Corded Earbuds"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Azuki Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Striking"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Surprised"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Bean Juice"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Kabuki Facepaint"
+        }
+    ]
+}

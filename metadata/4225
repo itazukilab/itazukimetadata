@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #4225",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/4225.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver Swept Back"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Cat Yukata"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "420"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Bean Juice"
+        }
+    ]
+}

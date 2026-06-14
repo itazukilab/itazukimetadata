@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #8116",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/8116.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Pink Hairband"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Turquoise Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Joyful"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Chewing"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Banner"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Cowboy Hat"
+        }
+    ]
+}

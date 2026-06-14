@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #672",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/672.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Brown Samurai"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Yellow Jumpsuit"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Careless"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Coin"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Eye Scar"
+        }
+    ]
+}

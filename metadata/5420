@@ -1,0 +1,47 @@
+{
+    "name": "Itazuki #5420",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/5420.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Black Swept Back"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Stud"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pierced Eyebrow"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Bean Juice"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Tribal Tattoo"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Reading Glasses"
+        }
+    ]
+}

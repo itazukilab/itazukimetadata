@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #7848",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/7848.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Long Dreadlocks"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Brown Yukata"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Careless"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Meh"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Monkey King Staff"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Frog Cap"
+        }
+    ]
+}

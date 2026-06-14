@@ -1,0 +1,31 @@
+{
+    "name": "Itazuki #6184",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/6184.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Teal Messy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Azuki Sweater"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pensive"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        }
+    ]
+}

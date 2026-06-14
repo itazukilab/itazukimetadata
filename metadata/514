@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #514",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/514.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blonde Long"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Frog T Shirt"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Curious"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Bean Juice"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Beads"
+        }
+    ]
+}

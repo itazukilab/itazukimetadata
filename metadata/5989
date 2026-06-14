@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #5989",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/5989.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Indigo Long"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Camo Hoodie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Suspicious"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Red Bean"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Red Stripes Paint"
+        }
+    ]
+}

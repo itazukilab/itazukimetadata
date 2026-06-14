@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #7550",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/7550.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blonde Short Spiky"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Kimono with Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Focus"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Not Bad"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Umbrella"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Eye Scar"
+        }
+    ]
+}

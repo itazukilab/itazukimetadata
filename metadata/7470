@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #7470",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/7470.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Indigo Pony"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Frog Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Amethyst"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Wheat Straw"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Sakura Katana"
+        }
+    ]
+}

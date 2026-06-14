@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #4087",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/4087.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Brown Blonde Flowy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Bandage Top"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Laughing"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Bokken"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Purple Kanzashi"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Heart Eye Patch"
+        }
+    ]
+}

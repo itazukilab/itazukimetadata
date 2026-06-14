@@ -1,0 +1,31 @@
+{
+    "name": "Itazuki #2839",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/2839.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Green Samurai"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Azuki Tech Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Glowing"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        }
+    ]
+}

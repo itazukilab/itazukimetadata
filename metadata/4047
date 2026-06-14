@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #4047",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/4047.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blue Hairband"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Pink Oversized Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Hopeful"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Coin"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Purple Kanzashi"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Zen Headphones"
+        }
+    ]
+}

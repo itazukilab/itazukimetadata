@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #4716",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/4716.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Maroon Short Spiky"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black T Shirt"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Careless"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pout"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Lightning Orb"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Blue Shades"
+        }
+    ]
+}

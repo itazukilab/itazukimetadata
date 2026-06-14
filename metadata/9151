@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #9151",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/9151.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Green Pigtail"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Sunflower"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue Kimono with Bow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Striking"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Scroll"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Kabuki Facepaint"
+        }
+    ]
+}

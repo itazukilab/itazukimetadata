@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #995",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/995.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Brown Fluffy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Sloth T Shirt"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Curious"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Relaxed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Katana"
+        }
+    ]
+}

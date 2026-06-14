@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #6568",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/6568.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Brown Spiky"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Maroon Yukata"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoking"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Sandogasa"
+        }
+    ]
+}

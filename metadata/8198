@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #8198",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/8198.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver Bun"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Frog Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Daydreaming"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Chewing"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Water Orb"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Cowboy Hat"
+        }
+    ]
+}

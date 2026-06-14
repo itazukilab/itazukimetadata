@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #9066",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/9066.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Brown Spiky"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Sword"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Brown Yukata"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Neutral"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Scroll"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Monk Staff"
+        }
+    ]
+}

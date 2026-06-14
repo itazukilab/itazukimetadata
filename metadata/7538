@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #7538",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/7538.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Green Spiky"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Kimono with Straw Hat"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Careless"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Growl"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Dark Purple"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Monk Staff"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Chef Headband"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Towel"
+        }
+    ]
+}

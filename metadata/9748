@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #9748",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/9748.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Pink Pixie"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Red Floral Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Daydreaming"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Laughing"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Boombox"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Red Panda Cap"
+        }
+    ]
+}

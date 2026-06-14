@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #9388",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/9388.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Purple Spiky"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Fur Hoodie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Curious"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Not Bad"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Dark Purple"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Chef Headband"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Black Glasses"
+        },
+        {
+            "trait_type": "Special",
+            "value": "Butterfly"
+        }
+    ]
+}

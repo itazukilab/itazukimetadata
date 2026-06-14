@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #9962",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/9962.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Green Half Bun"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Rain Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Relaxed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Bat"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Distressed Beanie"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Tribal Tattoo"
+        }
+    ]
+}

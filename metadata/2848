@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #2848",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/2848.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver Long"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue Bomber"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tired"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Not Bad"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Water Orb"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Chill Headphones"
+        },
+        {
+            "trait_type": "Special",
+            "value": "Water"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Itazuki #5837",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/5837.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Magenta Messy"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Ethereum"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Tank Top"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pensive"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoking"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Floorsweeper"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Towel"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Red Stripes Paint"
+        }
+    ]
+}

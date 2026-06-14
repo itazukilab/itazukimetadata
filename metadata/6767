@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #6767",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/6767.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blue Bob"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue Qipao"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Relaxed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Whistling"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Banner"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Cat Mask"
+        }
+    ]
+}

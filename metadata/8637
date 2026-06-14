@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #8637",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/8637.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blonde Bob"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black Bomber"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "420"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Round Blue Shades"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #807",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/807.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Brown Spiky"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Azuki Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "White"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Gloves"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Red Bandana"
+        }
+    ]
+}

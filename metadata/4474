@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #4474",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/4474.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Green Spiky"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Chiyogami"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue Bomber"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "White"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Wheat Straw"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Leather Katana"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Reading Glasses"
+        }
+    ]
+}

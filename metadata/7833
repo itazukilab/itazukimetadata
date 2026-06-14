@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #7833",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/7833.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Black Messy"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Bloody Bomber"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Chill"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        }
+    ]
+}

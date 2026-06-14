@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #6181",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/6181.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Maroon Bob"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Turquoise Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Striking"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Surprised"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Sakura Katana"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Backwards Cap"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Black Glasses"
+        }
+    ]
+}

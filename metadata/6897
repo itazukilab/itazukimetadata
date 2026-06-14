@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #6897",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/6897.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Teal Hairband"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Corded Earbuds"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Pink Oversized Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Daydreaming"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Bean Juice"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Azuki Cap"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #9950",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/9950.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blue Bob"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Azuki Sweater"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Ruby"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Bean Juice"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Straw Hat"
+        }
+    ]
+}

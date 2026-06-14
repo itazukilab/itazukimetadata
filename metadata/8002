@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #8002",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/8002.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blonde Bun"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "White Hoodie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Focus"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Scroll"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Banner"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Reading Glasses"
+        }
+    ]
+}

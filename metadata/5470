@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #5470",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/5470.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Orange Short Spiky"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Red Panda T Shirt"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pout"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Hook Sword"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Zen Headphones"
+        }
+    ]
+}

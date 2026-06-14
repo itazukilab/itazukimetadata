@@ -1,0 +1,47 @@
+{
+    "name": "Itazuki #3393",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/3393.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver Pixie"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Square Stud"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Light Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Focus"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "420"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Hand Wrap"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Purple Kanzashi"
+        },
+        {
+            "trait_type": "Special",
+            "value": "Smoke"
+        }
+    ]
+}

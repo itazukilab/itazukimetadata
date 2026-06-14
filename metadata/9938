@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #9938",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/9938.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Magenta Long"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Azuki Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tired"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Not Bad"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Guitar"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns"
+        }
+    ]
+}

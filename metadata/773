@@ -1,0 +1,31 @@
+{
+    "name": "Itazuki #773",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/773.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Pink Flowy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Sloth Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Striking"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #8605",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/8605.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Brown Spiky"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "White Layered Yukata"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Meditating"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Not Bad"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Leather Katana"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Black Glasses"
+        }
+    ]
+}

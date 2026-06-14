@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #7678",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/7678.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Maroon Bun"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Chill"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Tank Top"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Ruby"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Floorsweeper"
+        }
+    ]
+}

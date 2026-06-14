@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #4398",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/4398.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blue Bun"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black Hoodie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Relaxed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Golden Floorsweeper"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Sleep Mask"
+        }
+    ]
+}

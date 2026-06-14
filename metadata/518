@@ -1,0 +1,51 @@
+{
+    "name": "Itazuki #518",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/518.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Brown Pony"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Blue Fan"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Tank Top with Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pierced Eyebrow"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Lipstick"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Dark Purple"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Guitar"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Newsboy Cap"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Blush"
+        },
+        {
+            "trait_type": "Special",
+            "value": "Butterfly"
+        }
+    ]
+}

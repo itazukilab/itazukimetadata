@@ -1,0 +1,31 @@
+{
+    "name": "Itazuki #5731",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/5731.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Magenta Messy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Suit with Turtleneck"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        }
+    ]
+}

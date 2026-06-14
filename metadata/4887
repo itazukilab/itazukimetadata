@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #4887",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/4887.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Brown Messy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Tank Top"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Suspicious"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Banner"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Pointy Straw Hat"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Towel"
+        }
+    ]
+}

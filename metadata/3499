@@ -1,0 +1,47 @@
+{
+    "name": "Itazuki #3499",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/3499.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver Pixie"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Cat Hoodie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Focus"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Guitar"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Pointy Straw Hat"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Towel"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Round Purple Sunglasses"
+        }
+    ]
+}

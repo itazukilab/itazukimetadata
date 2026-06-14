@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #8011",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/8011.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blonde Short Spiky"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Hoshi Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Curious"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Growl"
+        },
+        {
+            "trait_type": "Background",
+            "value": "DBlue"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Fishing Rod"
+        }
+    ]
+}

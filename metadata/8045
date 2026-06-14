@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #8045",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/8045.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "PBlue Pigtail"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black Hoodie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Ruby"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Chewing"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Black Bucket Hat"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Red Fang Paint"
+        }
+    ]
+}

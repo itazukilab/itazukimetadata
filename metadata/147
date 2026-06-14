@@ -1,0 +1,47 @@
+{
+    "name": "Itazuki #147",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/147.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver Flowy"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Hoop"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Tank Top"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pierced Eyebrow"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Laughing"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Red Bean"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Fur Bucket Hat"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Clear Glasses"
+        }
+    ]
+}

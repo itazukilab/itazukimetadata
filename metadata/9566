@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #9566",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/9566.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Indigo Pixie"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue Kimono with Bow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Worried"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue Out"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Lantern"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Cat Headband"
+        }
+    ]
+}

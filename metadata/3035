@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #3035",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/3035.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Black Pigtail"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Red Floral Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Amethyst"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Cool Gray"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Chill Headphones"
+        }
+    ]
+}

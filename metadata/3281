@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #3281",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/3281.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blonde Swept Back"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Matsuri Happi"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Neutral"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pout"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Leather Katana"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Full Bandana"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Black Glasses"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #1005",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/1005.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Gray Samurai"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Denim Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Suspicious"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Face Mask"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Banner"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #8732",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/8732.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver Short Spiky"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Bloody Bomber"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoking"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Gloves"
+        },
+        {
+            "trait_type": "Special",
+            "value": "Sakura"
+        }
+    ]
+}

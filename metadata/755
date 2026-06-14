@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #755",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/755.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver Spiky"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Chill"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "White Yukata"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Lightning"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Chuckle"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Cool Gray"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Lightning Orb"
+        },
+        {
+            "trait_type": "Special",
+            "value": "Lightning"
+        }
+    ]
+}

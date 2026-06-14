@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #8640",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/8640.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Maroon Bob"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue Bomber"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Ruby"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Fishing Rod"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Backwards Cap"
+        }
+    ]
+}

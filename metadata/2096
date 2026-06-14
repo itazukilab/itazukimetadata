@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #2096",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/2096.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver Spiky"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "White T Shirt"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pierced Eyebrow"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Sandogasa"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Red Fang Paint"
+        }
+    ]
+}

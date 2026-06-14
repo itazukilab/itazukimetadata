@@ -1,0 +1,47 @@
+{
+    "name": "Itazuki #9175",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/9175.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Orange Short Spiky"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Yellow Fan"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Hoshi Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Banner"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Frog Headband"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Sleep Mask"
+        }
+    ]
+}

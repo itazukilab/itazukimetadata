@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #9576",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/9576.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "PBlue Swept Back"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "White Yukata"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Chill"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Meh"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Koi Tattoo"
+        },
+        {
+            "trait_type": "Special",
+            "value": "Smoke"
+        }
+    ]
+}

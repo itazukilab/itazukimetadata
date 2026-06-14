@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #3024",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/3024.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Purple Bun"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Rain Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Joyful"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Lipstick"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Coin"
+        }
+    ]
+}

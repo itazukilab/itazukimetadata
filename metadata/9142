@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #9142",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/9142.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver Bob"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Frog Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Ruby"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Laughing"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Black Glasses"
+        }
+    ]
+}

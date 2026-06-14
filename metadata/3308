@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #3308",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/3308.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver Spiky"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Spiked Ring"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black T Shirt"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pensive"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Fan"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Eye Scar"
+        }
+    ]
+}

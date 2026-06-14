@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #4729",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/4729.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Buzzcut"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue Bomber"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Scroll"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Broken Straw Hat"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Kabuki Facepaint"
+        }
+    ]
+}

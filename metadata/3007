@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #3007",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/3007.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver Swept Back"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Wireless Earbuds"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Rain Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Curious"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Not Bad"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Lantern"
+        }
+    ]
+}

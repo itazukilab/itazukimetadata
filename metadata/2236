@@ -1,0 +1,47 @@
+{
+    "name": "Itazuki #2236",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/2236.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Purple Dreadlocks"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Sunflower"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Turquoise Kimono with Bow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Zanbato"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Zen Headphones"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Eye Patch"
+        }
+    ]
+}

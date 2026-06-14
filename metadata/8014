@@ -1,0 +1,47 @@
+{
+    "name": "Itazuki #8014",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/8014.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Maroon Messy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Green Yukata"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Background",
+            "value": "DBlue"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Lantern"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Frog Headband"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Red Stripes Paint"
+        },
+        {
+            "trait_type": "Special",
+            "value": "Fox Fire"
+        }
+    ]
+}

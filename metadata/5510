@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #5510",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/5510.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Magenta Pigtail"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black Hoodie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "420"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Coin"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Sloth Headband"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #6880",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/6880.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blonde Bob"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Turquoise Kimono with Bow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pierced Eyebrow"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoking"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Lantern"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Chill Headphones"
+        }
+    ]
+}

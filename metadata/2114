@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #2114",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/2114.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blue Bob"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Corded Earbuds"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Tank Top"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Joyful"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Bean Juice"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Red Bandana"
+        }
+    ]
+}

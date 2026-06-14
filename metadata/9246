@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #9246",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/9246.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Indigo Messy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Aloha"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "420"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Fishing Rod"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Distressed Beanie"
+        }
+    ]
+}

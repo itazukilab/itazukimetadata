@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #7545",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/7545.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Indigo Fluffy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Sloth Yukata"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pensive"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Long Stubble"
+        },
+        {
+            "trait_type": "Background",
+            "value": "DBlue"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Katana"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Beret"
+        }
+    ]
+}

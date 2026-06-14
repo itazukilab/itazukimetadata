@@ -1,0 +1,51 @@
+{
+    "name": "Itazuki #7080",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/7080.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blue Spiky"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Wu"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Frog Yukata"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Curious"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Scroll"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Water Orb"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Black Bucket Hat"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Beads"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Red Stripes Paint"
+        }
+    ]
+}

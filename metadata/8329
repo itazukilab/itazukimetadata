@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #8329",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/8329.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Teal Bob"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Bloody Bomber"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "White"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Boombox"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Blush"
+        }
+    ]
+}

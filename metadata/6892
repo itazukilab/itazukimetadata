@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #6892",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/6892.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Magenta Flowy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Archer"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Ruby"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Red Bean"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Distressed Beanie"
+        }
+    ]
+}

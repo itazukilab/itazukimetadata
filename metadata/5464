@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #5464",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/5464.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Teal Hairband"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Turquoise Kimono with Bow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Joyful"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Bean Juice"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Yellow Kanzashi"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Blue Shades"
+        }
+    ]
+}

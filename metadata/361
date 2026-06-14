@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #361",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/361.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Magenta Long"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue Bomber"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Meditating"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Meh"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Bokken"
+        }
+    ]
+}

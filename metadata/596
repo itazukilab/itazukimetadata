@@ -1,0 +1,47 @@
+{
+    "name": "Itazuki #596",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/596.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Indigo Fluffy"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Red Bean"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Shinto Robe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Chill"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Sakura Katana"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Towel"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Kabuki Facepaint"
+        }
+    ]
+}

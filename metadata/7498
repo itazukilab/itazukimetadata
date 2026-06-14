@@ -1,0 +1,47 @@
+{
+    "name": "Itazuki #7498",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/7498.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Buzzcut"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Cat Yukata"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Lightning Orb"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Ayaigasa"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Beads"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Eye Scar"
+        }
+    ]
+}

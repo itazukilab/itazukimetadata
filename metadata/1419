@@ -1,0 +1,47 @@
+{
+    "name": "Itazuki #1419",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/1419.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Purple Pigtail"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Sunflower"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Red Panda T Shirt"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Laughing"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Broken Straw Hat"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Contract Tattoo"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Clear Glasses"
+        }
+    ]
+}

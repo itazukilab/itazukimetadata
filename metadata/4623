@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #4623",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/4623.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver Bangs"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue Floral Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Daydreaming"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Lipstick"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Coin"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "IKZ Cap"
+        }
+    ]
+}

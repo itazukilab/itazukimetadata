@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #9749",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/9749.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Maroon Messy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "White Hoodie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Focus"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Chuckle"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Bean Juice"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Black Bucket Hat"
+        }
+    ]
+}

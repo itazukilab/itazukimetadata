@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #5905",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/5905.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blue Spiky"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Matsuri Happi"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Lightning"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Growl"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Red Bean"
+        }
+    ]
+}

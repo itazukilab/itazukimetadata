@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #8228",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/8228.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Orange Pixie"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Yellow Fan"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Pink Oversized Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pierced Eyebrow"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Relaxed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        }
+    ]
+}

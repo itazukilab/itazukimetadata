@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #461",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/461.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Maroon Half Bun"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Frown"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Gloves"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Choker"
+        }
+    ]
+}

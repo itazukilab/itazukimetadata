@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #7761",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/7761.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Black Messy"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Stud"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "White Layered Yukata"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pierced Eyebrow"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Chuckle"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Monk Staff"
+        }
+    ]
+}

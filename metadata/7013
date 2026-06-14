@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #7013",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/7013.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Gray Samurai"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Yellow Fan"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Frog Yukata"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Chill"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Bubble Gum"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Leather Katana"
+        }
+    ]
+}

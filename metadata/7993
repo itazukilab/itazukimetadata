@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #7993",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/7993.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blue Samurai"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Azuki Tech Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Curious"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Wheat Straw"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Fishing Rod"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Frog Cap"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Koi Tattoo"
+        }
+    ]
+}

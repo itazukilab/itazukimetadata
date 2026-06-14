@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #4417",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/4417.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Dreadlocks"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black Tech Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Relaxed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Fan"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Tribal Tattoo"
+        }
+    ]
+}

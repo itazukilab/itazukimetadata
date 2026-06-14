@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #3374",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/3374.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Spirit"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Spirit Spiky"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "White"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Meh"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Newsboy Cap"
+        },
+        {
+            "trait_type": "Special",
+            "value": "Earth"
+        }
+    ]
+}

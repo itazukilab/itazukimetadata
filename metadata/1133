@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #1133",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/1133.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Magenta Long"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black Blazer"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pierced Eyebrow"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Relaxed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Full Bandana"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Chain"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Bandaid"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #2812",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/2812.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Buzzcut"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Shinto Robe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Focused"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Dark Purple"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Gloves"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Zen Headphones"
+        },
+        {
+            "trait_type": "Special",
+            "value": "Butterfly"
+        }
+    ]
+}

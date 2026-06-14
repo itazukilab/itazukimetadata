@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #2156",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/2156.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Magenta Pigtail"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Red Ninja Top"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Worried"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Chewing"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Zanbato"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Cat Headband"
+        }
+    ]
+}

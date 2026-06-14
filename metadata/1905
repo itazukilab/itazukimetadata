@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #1905",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/1905.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Black Messy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black Blazer"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Meditating"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Relaxed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Chain"
+        }
+    ]
+}

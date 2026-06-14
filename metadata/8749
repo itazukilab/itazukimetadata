@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #8749",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/8749.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Brown Flowy"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Pearl"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Azuki Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Ruby"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Hand Seal"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Yellow Kanzashi"
+        }
+    ]
+}

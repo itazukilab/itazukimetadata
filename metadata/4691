@@ -1,0 +1,31 @@
+{
+    "name": "Itazuki #4691",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/4691.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Orange Samurai"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Hoodie with Bag"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Neutral"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Growl"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        }
+    ]
+}

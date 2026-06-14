@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #7335",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/7335.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blue Half Bun"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Kung Fu Shirt"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Meditating"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Not Bad"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Hand Wrap"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Chill Headphones"
+        }
+    ]
+}

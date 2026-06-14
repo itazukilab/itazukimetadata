@@ -1,0 +1,47 @@
+{
+    "name": "Itazuki #2481",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/2481.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Orange Short Spiky"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Green Yukata"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "420"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Fan"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Red Panda Headband"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Koi Tattoo"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Eye Patch"
+        }
+    ]
+}

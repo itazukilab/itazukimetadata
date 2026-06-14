@@ -1,0 +1,47 @@
+{
+    "name": "Itazuki #5381",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/5381.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blonde Messy"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Chiyogami"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Focused"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Face Mask"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Golden Katana"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "IKZ Cap"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Round Blue Shades"
+        }
+    ]
+}

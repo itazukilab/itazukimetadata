@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #5246",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/5246.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Magenta Messy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Neutral"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Scroll"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Towel"
+        }
+    ]
+}

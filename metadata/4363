@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #4363",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/4363.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Spirit"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Spirit Pony"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black Hoodie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Joyful"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Talisman"
+        }
+    ]
+}

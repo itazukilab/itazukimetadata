@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #8518",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/8518.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Purple Spiky"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Aloha"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pierced Eyebrow"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Relaxed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "DBlue"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Golden Bat"
+        },
+        {
+            "trait_type": "Special",
+            "value": "Fox Fire"
+        }
+    ]
+}

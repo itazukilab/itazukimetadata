@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #9250",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/9250.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Maroon Bun"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Stud"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Fur Hoodie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Worried"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Floorsweeper"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #1663",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/1663.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Brown Long"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Wu"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Beige Poncho"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Curious"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Wheat Straw"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Frog Cap"
+        }
+    ]
+}

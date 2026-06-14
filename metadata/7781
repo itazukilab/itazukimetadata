@@ -1,0 +1,31 @@
+{
+    "name": "Itazuki #7781",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/7781.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Brown Bangs"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Denim Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Hopeful"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #1392",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/1392.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Brown Long"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black Bomber"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Neutral"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Chuckle"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Distressed Beanie"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Red Stripes Paint"
+        }
+    ]
+}

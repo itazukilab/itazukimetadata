@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #2426",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/2426.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Magenta Long"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Ethereum"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Brown Yukata"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Sleep Bubble"
+        },
+        {
+            "trait_type": "Background",
+            "value": "DBlue"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Bandaid"
+        }
+    ]
+}

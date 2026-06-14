@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #1433",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/1433.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Indigo Messy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Kimono with Straw Hat"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Neutral"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Chuckle"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Red Fang Paint"
+        }
+    ]
+}

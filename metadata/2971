@@ -1,0 +1,31 @@
+{
+    "name": "Itazuki #2971",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/2971.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blonde Swept Back"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Archer"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tired"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Whistling"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        }
+    ]
+}

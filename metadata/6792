@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #6792",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/6792.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blue Nightshade Half Bun"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Joyful"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Relaxed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Katana"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Choker"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Round Blue Shades"
+        }
+    ]
+}

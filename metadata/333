@@ -1,0 +1,47 @@
+{
+    "name": "Itazuki #333",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/333.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Indigo Swept Back"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Ear Cuffs"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Green Yukata"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Neutral"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pout"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Hook Sword"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Chill Headphones"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Round Blue Shades"
+        }
+    ]
+}

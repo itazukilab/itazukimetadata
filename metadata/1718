@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #1718",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/1718.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Orange Pixie"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Chill"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Turquoise Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Ruby"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        }
+    ]
+}

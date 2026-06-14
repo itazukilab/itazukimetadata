@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #4711",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/4711.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver Pixie"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "White Qipao with Fur"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Striking"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Lipstick"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Hand Wrap"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Black Bucket Hat"
+        }
+    ]
+}

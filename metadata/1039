@@ -1,0 +1,31 @@
+{
+    "name": "Itazuki #1039",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/1039.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver Hairband"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Lavender Kimono with Bow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Striking"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Gaiter"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        }
+    ]
+}

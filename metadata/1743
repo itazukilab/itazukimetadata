@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #1743",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/1743.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Black Bangs"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Lavender Kimono with Bow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Daydreaming"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Laughing"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Leather Katana"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Purple Kanzashi"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Chill Headphones"
+        }
+    ]
+}

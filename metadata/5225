@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #5225",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/5225.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Indigo Messy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Kimono with Straw Hat"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Focused"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Meh"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Red Stripes Paint"
+        }
+    ]
+}

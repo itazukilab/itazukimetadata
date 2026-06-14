@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #8801",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/8801.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Teal Bob"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Red Ninja Top"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Ruby"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue Out"
+        },
+        {
+            "trait_type": "Background",
+            "value": "DBlue"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Zanbato"
+        }
+    ]
+}

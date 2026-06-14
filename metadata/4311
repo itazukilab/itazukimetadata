@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #4311",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/4311.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Brown Half Bun"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Alpine Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Chill"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Wheat Straw"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Fishing Rod"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Backwards Cap"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Blue Shades"
+        }
+    ]
+}

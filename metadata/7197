@@ -1,0 +1,31 @@
+{
+    "name": "Itazuki #7197",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/7197.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "PBlue Swept Back"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Light Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Meditating"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        }
+    ]
+}

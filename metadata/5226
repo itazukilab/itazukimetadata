@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #5226",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/5226.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Green Ombre Bangs"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Hopeful"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Relaxed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Sloth Headband"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Choker"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Red Stripes Paint"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #9593",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/9593.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Indigo Long"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pierced Eyebrow"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Wheat Straw"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Sakura Katana"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Red Panda Headphones"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Black Glasses"
+        }
+    ]
+}

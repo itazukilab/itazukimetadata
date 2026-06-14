@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #1223",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/1223.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Black Fluffy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Curious"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Sloth Cap"
+        }
+    ]
+}

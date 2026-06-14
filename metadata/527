@@ -1,0 +1,47 @@
+{
+    "name": "Itazuki #527",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/527.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver Swept Back"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black Yukata"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Meh"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Katana"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Beret"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Eye Patch"
+        },
+        {
+            "trait_type": "Special",
+            "value": "Water"
+        }
+    ]
+}

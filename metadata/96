@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #96",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/96.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Brown Spiky"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "White Hoodie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pensive"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Gaiter"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Zanbato"
+        }
+    ]
+}

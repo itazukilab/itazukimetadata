@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #6634",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/6634.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Brown Spiky"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Kimono with Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pierced Eyebrow"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Relaxed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Dark Purple"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Cat Ears"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Chill Headphones"
+        }
+    ]
+}

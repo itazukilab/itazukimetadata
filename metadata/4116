@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #4116",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/4116.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Purple Bangs"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue Kimono with Bow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Hopeful"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Background",
+            "value": "DBlue"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Fireball"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Red Fang Paint"
+        }
+    ]
+}

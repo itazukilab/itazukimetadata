@@ -1,0 +1,51 @@
+{
+    "name": "Itazuki #9619",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/9619.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Maroon Bun"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Light Armor"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Water Orb"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Purple Kanzashi"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Tribal Tattoo"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Reading Glasses"
+        }
+    ]
+}

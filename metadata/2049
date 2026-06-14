@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #2049",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/2049.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Green Pigtail"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue Qipao"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue Out"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Cool Gray"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Chef Headband"
+        },
+        {
+            "trait_type": "Special",
+            "value": "Fireflies"
+        }
+    ]
+}

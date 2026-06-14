@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #2705",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/2705.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver Flowy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Turquoise Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Joyful"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue Out"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Fishing Rod"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Cat Mask"
+        }
+    ]
+}

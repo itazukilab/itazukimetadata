@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #3408",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/3408.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver Long"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Maroon Yukata"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Dark Purple"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Tribal Tattoo"
+        },
+        {
+            "trait_type": "Special",
+            "value": "Butterfly"
+        }
+    ]
+}

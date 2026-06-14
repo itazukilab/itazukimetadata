@@ -1,0 +1,47 @@
+{
+    "name": "Itazuki #3941",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/3941.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blue Bun"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Red Floral Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Knife"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Bean Juice"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Cat Mask"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Towel"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Seer Eyeband"
+        }
+    ]
+}

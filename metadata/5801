@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #5801",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/5801.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Green Fluffy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "White Yukata"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tired"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Relaxed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Bandaid"
+        }
+    ]
+}

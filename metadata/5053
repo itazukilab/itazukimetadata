@@ -1,0 +1,47 @@
+{
+    "name": "Itazuki #5053",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/5053.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Indigo Pony"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Red Tassel"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue Floral Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Relaxed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Chewing"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Gloves"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Sloth Beanie"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Towel"
+        }
+    ]
+}

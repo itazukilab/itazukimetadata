@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #6893",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/6893.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "PBlue Messy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Brown Yukata"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Wheat Straw"
+        },
+        {
+            "trait_type": "Background",
+            "value": "DBlue"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Banner"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Cat Ears"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Cat Headphones"
+        }
+    ]
+}

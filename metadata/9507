@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #9507",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/9507.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Magenta Messy"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Ear Cuffs"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Yellow Jumpsuit"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Meh"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Monk Staff"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Full Bandana"
+        }
+    ]
+}

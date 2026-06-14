@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #618",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/618.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver Swept Back"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "White Layered Yukata"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Wheat Straw"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Hook Sword"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Ayaigasa"
+        }
+    ]
+}

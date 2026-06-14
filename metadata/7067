@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #7067",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/7067.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Orange Pixie"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Wu"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue Floral Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Striking"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Scroll"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Floorsweeper"
+        }
+    ]
+}

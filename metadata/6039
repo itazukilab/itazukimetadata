@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #6039",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/6039.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Black Messy"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Cat"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "White Yukata"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Suspicious"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Growl"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Cat Headphones"
+        }
+    ]
+}

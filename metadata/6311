@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #6311",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/6311.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Purple Bun"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Tank Top with Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Joyful"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Chewing"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Leather Katana"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Sandogasa"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Koi Tattoo"
+        }
+    ]
+}

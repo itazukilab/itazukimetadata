@@ -1,0 +1,31 @@
+{
+    "name": "Itazuki #288",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/288.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Orange Samurai"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "White Blazer"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Focused"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        }
+    ]
+}

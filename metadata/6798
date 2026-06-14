@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #6798",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/6798.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Teal Long"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Azuki Sweater"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "White"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Meh"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Banner"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Red Panda Headphones"
+        }
+    ]
+}

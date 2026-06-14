@@ -1,0 +1,47 @@
+{
+    "name": "Itazuki #3375",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/3375.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Brown Half Bun"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue Floral Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Joyful"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Floorsweeper"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Purple Kanzashi"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Chill Headphones"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Red Fang Paint"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #9993",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/9993.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver Bangs"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Sloth Hoodie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Relaxed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoking"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Hand Wrap"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Towel"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Blush"
+        }
+    ]
+}

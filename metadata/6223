@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #6223",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/6223.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Maroon Bob"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black Qipao"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Daydreaming"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Bokken"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Blue Shades"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #8594",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/8594.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Green Pony"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Chill"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Pink Oversized Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Amethyst"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "420"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Hook Sword"
+        }
+    ]
+}

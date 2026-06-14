@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #4918",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/4918.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver Pixie"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Vegan Mink Coat"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Relaxed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Leather Katana"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Black Bucket Hat"
+        }
+    ]
+}

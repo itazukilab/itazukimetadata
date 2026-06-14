@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #8355",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/8355.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blue Bun"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Hoodie with Bag"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Joyful"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Whistling"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Monkey King Staff"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Koi Tattoo"
+        }
+    ]
+}

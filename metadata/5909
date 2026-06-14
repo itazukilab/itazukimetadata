@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #5909",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/5909.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Lightning"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Meh"
+        },
+        {
+            "trait_type": "Background",
+            "value": "DBlue"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Lightning Orb"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Contract Tattoo"
+        },
+        {
+            "trait_type": "Special",
+            "value": "Lightning"
+        }
+    ]
+}

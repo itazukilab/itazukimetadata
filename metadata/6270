@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #6270",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/6270.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Magenta Flowy"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Chill"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Cat T Shirt"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Amethyst"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Relaxed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Hook Sword"
+        },
+        {
+            "trait_type": "Special",
+            "value": "Smoke"
+        }
+    ]
+}

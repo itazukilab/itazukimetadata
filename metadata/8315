@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #8315",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/8315.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blue Bun"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Yellow Bikini"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Relaxed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Frown"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Fan"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Sneakers"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Reading Glasses"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "name": "Itazuki #615",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/615.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Black Messy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "White Layered Yukata"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Chill"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Floorsweeper"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Newsboy Cap"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Golden Headphones"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Reading Glasses"
+        },
+        {
+            "trait_type": "Special",
+            "value": "Sakura"
+        }
+    ]
+}

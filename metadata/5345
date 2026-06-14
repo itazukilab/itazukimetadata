@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #5345",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/5345.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "PBlue Pigtail"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue Kimono with Bow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Lipstick"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Dark Purple"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Bean Juice"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Purple Kanzashi"
+        }
+    ]
+}

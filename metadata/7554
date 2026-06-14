@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #7554",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/7554.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Brown Blonde Long"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Bumblebee Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Growl"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Shuriken"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Sloth Headband"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Tribal Tattoo"
+        }
+    ]
+}

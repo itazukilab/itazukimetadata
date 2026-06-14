@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #3725",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/3725.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Black Pigtail"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Denim Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Relaxed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Bat"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Frog Cap"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Seer Eyeband"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #7950",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/7950.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Green Teal Long"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Dress Shirt"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Focused"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Chuckle"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Katana"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Pointy Straw Hat"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Koi Tattoo"
+        }
+    ]
+}

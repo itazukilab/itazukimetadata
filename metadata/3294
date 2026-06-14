@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #3294",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/3294.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Green Flowy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Pink Oversized Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Sake"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Lipstick Kiss"
+        }
+    ]
+}

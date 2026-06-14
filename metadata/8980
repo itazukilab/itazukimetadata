@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #8980",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/8980.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Teal Bun"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Stud"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Frog Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pierced Eyebrow"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Cool Gray"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Shuriken"
+        },
+        {
+            "trait_type": "Special",
+            "value": "Fireflies"
+        }
+    ]
+}

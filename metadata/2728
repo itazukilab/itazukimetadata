@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #2728",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/2728.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Green Half Bun"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Frog T Shirt"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Suspicious"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Whistling"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Full Bandana"
+        }
+    ]
+}

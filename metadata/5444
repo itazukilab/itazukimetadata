@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #5444",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/5444.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blue Bun"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Camo Tech Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Worried"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Chewing"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Newsboy Cap"
+        }
+    ]
+}

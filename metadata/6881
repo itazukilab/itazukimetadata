@@ -1,0 +1,47 @@
+{
+    "name": "Itazuki #6881",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/6881.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Orange Samurai"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Skull Ear Cuffs"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Suspicious"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Background",
+            "value": "DBlue"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Hook Sword"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Frog Cap"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Bandaid"
+        }
+    ]
+}

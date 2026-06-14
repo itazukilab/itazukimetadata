@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #2590",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/2590.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Pink Flowy"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Red Spiked Ring"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Camo Tech Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Worried"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Leather Katana"
+        }
+    ]
+}

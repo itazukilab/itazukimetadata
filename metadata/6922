@@ -1,0 +1,51 @@
+{
+    "name": "Itazuki #6922",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/6922.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver Swept Back"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Small Hoop"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Light Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Chill"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Whistling"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Bat"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Red Panda Headband"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Tribal Tattoo"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Round Blue Shades"
+        }
+    ]
+}

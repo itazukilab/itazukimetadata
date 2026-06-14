@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #4514",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/4514.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Gray Samurai"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Dress Shirt"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Chill"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Chuckle"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Coin"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Chef Headband"
+        }
+    ]
+}

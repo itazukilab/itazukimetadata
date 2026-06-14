@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #2589",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/2589.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "PBlue Pigtail"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Yellow Bikini"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Amethyst"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Toothpick"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Boombox"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Frog Headband"
+        }
+    ]
+}

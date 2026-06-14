@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #2138",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/2138.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Maroon Bun"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black Bomber"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Striking"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Relaxed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Monkey King Staff"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Koi Tattoo"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Red Bandana"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #3256",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/3256.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Green Pigtail"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Pearl"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Tank Top with Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Frown"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Bat"
+        }
+    ]
+}

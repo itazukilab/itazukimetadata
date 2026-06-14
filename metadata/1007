@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #1007",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/1007.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Brown Bangs"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Aloha"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Ruby"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Hand Seal"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Clear Glasses"
+        }
+    ]
+}

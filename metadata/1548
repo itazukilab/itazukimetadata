@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #1548",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/1548.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "PBlue Messy"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Yin Yang"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Green Yukata"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Suspicious"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Hook Sword"
+        }
+    ]
+}

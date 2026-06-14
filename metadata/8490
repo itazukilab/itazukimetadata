@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #8490",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/8490.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Long Dreadlocks"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Skull Ear Cuffs"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Dress Shirt"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pierced Eyebrow"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Tongue Out"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Banner"
+        }
+    ]
+}

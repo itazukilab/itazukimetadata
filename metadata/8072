@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #8072",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/8072.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Orange Samurai"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "White Blazer"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Suspicious"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Growl"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Sakura Katana"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Frog Mask"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Bandaid"
+        }
+    ]
+}

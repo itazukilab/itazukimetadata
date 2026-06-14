@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #5286",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/5286.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver Short Spiky"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Yin Yang"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Shinto Robe"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Careless"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Growl"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Bean Juice"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Sloth Beanie"
+        }
+    ]
+}

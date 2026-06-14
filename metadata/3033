@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #3033",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/3033.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blonde Short Spiky"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "White Layered Yukata"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pensive"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Chuckle"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Full Bandana"
+        },
+        {
+            "trait_type": "Special",
+            "value": "Water"
+        }
+    ]
+}

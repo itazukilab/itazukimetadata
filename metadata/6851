@@ -1,0 +1,47 @@
+{
+    "name": "Itazuki #6851",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/6851.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blue Short Spiky"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Sword"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black T Shirt"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Focus"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Sakura Katana"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Frog Headband"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Frog Headphones"
+        }
+    ]
+}

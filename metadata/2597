@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #2597",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/2597.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver Spiky"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Matsuri Happi"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Chill"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "DBlue"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Shuriken"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Pointy Straw Hat"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Koi Tattoo"
+        }
+    ]
+}

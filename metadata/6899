@@ -1,0 +1,47 @@
+{
+    "name": "Itazuki #6899",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/6899.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Violet Flowy"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Ethereum"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Cat Hoodie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Relaxed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Leather Katana"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Backwards Cap"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Sleep Mask"
+        }
+    ]
+}

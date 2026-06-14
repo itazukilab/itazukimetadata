@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #8740",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/8740.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blonde Messy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Kimono with Straw Hat"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pensive"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Cat Cap"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Cat Headphones"
+        }
+    ]
+}

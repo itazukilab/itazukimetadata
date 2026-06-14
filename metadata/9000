@@ -1,0 +1,47 @@
+{
+    "name": "Itazuki #9000",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/9000.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Orange Samurai"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Wu"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Light Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Focused"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Stubble"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Floorsweeper"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Broken Straw Hat"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Contract Tattoo"
+        }
+    ]
+}

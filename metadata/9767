@@ -1,0 +1,47 @@
+{
+    "name": "Itazuki #9767",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/9767.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver Dreadlocks"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Cat T Shirt"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Careless"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Fishing Rod"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Horns"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Beads"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Blue Shades"
+        }
+    ]
+}

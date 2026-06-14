@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #6823",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/6823.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Green Flowy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Turquoise Kimono with Bow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Amethyst"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Lipstick"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Leather Katana"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Yellow Kanzashi"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Zen Headphones"
+        }
+    ]
+}

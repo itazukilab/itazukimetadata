@@ -1,0 +1,51 @@
+{
+    "name": "Itazuki #3645",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/3645.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Teal Messy"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Square Stud"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Archer"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Focused"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Water Orb"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "IKZ Cap"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Frog Headphones"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Round Blue Shades"
+        }
+    ]
+}

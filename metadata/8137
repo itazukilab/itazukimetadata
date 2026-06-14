@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #8137",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/8137.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Green Fluffy"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Wireless Earbuds"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Not Bad"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Sleep Mask"
+        }
+    ]
+}

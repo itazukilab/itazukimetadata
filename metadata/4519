@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #4519",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/4519.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Brown Bangs"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Red Perfecto Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Worried"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smirk"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Kanabo"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Sneakers"
+        }
+    ]
+}

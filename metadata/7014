@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #7014",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/7014.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Green Half Bun"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Sloth T Shirt"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Chewing"
+        },
+        {
+            "trait_type": "Background",
+            "value": "DBlue"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Leather Katana"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Sloth Cap"
+        },
+        {
+            "trait_type": "Special",
+            "value": "Fox Fire"
+        }
+    ]
+}

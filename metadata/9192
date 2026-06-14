@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #9192",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/9192.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Pink Hairband"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Vegan Mink Coat"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Joyful"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Face Mask"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Dark Purple"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Shuriken"
+        },
+        {
+            "trait_type": "Special",
+            "value": "Butterfly"
+        }
+    ]
+}

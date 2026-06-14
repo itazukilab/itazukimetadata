@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #8907",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/8907.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blonde Flowy"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Sakura"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Vest"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Striking"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Relaxed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Zanbato"
+        }
+    ]
+}

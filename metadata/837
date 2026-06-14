@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #837",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/837.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Spirit"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Spirit Spiky"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black Hoodie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "White"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Meh"
+        },
+        {
+            "trait_type": "Background",
+            "value": "DBlue"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Lantern"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #4332",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/4332.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Green Fluffy"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black Bomber"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Tired"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Gaiter"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Skateboard"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "IKZ Cap"
+        }
+    ]
+}

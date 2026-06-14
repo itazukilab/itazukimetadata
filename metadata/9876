@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #9876",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/9876.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Green Pigtail"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue Floral Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Ruby"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Lipstick"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Dark Purple"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Chef Headband"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Sloth Headphones"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Round Purple Sunglasses"
+        }
+    ]
+}

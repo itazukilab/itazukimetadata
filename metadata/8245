@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #8245",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/8245.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Green Pigtail"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Ear Cuffs"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Turquoise Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Worried"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Wheat Straw"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Monk Staff"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Sloth Headband"
+        }
+    ]
+}

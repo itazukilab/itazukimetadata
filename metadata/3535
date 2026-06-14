@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #3535",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/3535.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Spirit"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Spirit Fluffy"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Chill"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Kimono with Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Chill"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Meh"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Dark Purple"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Katana"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Azuki Cap"
+        }
+    ]
+}

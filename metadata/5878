@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #5878",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/5878.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Green Teal Long"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Red Kimono"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Suspicious"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Long Stubble"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Monkey King Staff"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Beret"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Chain"
+        }
+    ]
+}

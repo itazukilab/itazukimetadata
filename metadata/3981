@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #3981",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/3981.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Orange Short Spiky"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Ethereum"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Bloody Bomber"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Pensive"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Relaxed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Sloth Beanie"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Clear Glasses"
+        }
+    ]
+}

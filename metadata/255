@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #255",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/255.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blue Nightshade Half Bun"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Plated Samurai Armor"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Worried"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Frown"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW B"
+        },
+        {
+            "trait_type": "Neck",
+            "value": "Beads"
+        }
+    ]
+}

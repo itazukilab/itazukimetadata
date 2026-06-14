@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #6275",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/6275.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Maroon Short Spiky"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Green Yukata"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Focus"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Relaxed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Bokken"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Frog Headband"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Itazuki #4640",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/4640.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Brown Samurai"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Red Hoodie"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Curious"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Meh"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Sake"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Black Bucket Hat"
+        }
+    ]
+}

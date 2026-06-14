@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #1261",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/1261.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blue Nightshade Flowy"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Yin Yang"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Blue Bomber"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Calm"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smoking"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW D"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Lightning Orb"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Purple Kanzashi"
+        }
+    ]
+}

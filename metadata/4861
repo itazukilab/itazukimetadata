@@ -1,0 +1,47 @@
+{
+    "name": "Itazuki #4861",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/4861.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Purple Pigtail"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Yellow Fan"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Vest"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Closed"
+        },
+        {
+            "trait_type": "Background",
+            "value": "DBlue"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Umbrella"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Backwards Cap"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Heart Eye Patch"
+        }
+    ]
+}

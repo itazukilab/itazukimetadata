@@ -1,0 +1,43 @@
+{
+    "name": "Itazuki #4427",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/4427.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Spirit"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Spirit Long"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Black Yukata"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Careless"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Meh"
+        },
+        {
+            "trait_type": "Background",
+            "value": "DBlue"
+        },
+        {
+            "trait_type": "Offhand",
+            "value": "Bat"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "Backwards Cap"
+        }
+    ]
+}

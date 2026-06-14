@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #5141",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/5141.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Black Swept Back"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Chiyogami"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Cat T Shirt"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Neutral"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Growl"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW A"
+        }
+    ]
+}

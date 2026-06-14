@@ -1,0 +1,35 @@
+{
+    "name": "Itazuki #8747",
+    "description": "Itazuki NFT Collection",
+    "image": "https://raw.githubusercontent.com/itazukilab/itazukiimages/main/images/8747.webp",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Silver Pony"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Ear Cuffs"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Alpine Jacket"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Ruby"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Laughing"
+        },
+        {
+            "trait_type": "Background",
+            "value": "OW C"
+        }
+    ]
+}
